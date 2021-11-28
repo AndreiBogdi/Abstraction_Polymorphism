@@ -5,5 +5,6 @@ public class Dog extends Animal {
     public void wavingTail(){
         System.out.println("da din coada");
     }
-    public void barking(){System.out.println("latra");}
+    public void speak(){System.out.println("Woof");}
+    public void digging(){System.out.println("Sapa");}
 }

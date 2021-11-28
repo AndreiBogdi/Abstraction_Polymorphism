@@ -35,8 +35,10 @@ public class Animal {
 
     public void eat() {System.out.println("Eating...");}
     public void sleep() {System.out.println("Sleeping....");}
-    public void speak(){System.out.println("Bark!");}
+    public void speak() {System.out.println("Speaking...");}
     public void play() {System.out.println("Playing...");}
+    public void walk() {System.out.println("Walking...");}
+    public void cry() {System.out.println("Crying...");}
 
 
 
